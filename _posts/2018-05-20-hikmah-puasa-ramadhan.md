@@ -9,7 +9,7 @@ tags:
   - hikmah
 ---
 
-_Oleh: Muhammad Danial Royyan_
+_Oleh: Mohammad Danial Royyan_
 
 Agar di dalam melaksanakan puasa Ramadlon bisa lebih khusuk dan menyentuh hati, maka kita harus mengetahui hikmah hikmah diwajibkannya puasa pada bulan Ramadlon.
 
@@ -20,6 +20,7 @@ Hikmah hikmah puasa Ramadlon yaitu sebagai berikut :
 Semua bentuk ibadah termasuk puasa Ramadlon memiliki hikmah untuk bersyukur kepada Alloh atas nikmat iman, islam, kesehatan akal dan kesehatan badan.
 
 قال الله تعالى وان تعدوا نعمة الله لا تحصوها
+{: .text-right}
 
 Alloh berfirman : _“Dan jika kamu menghitung hitung nikmat Alloh, maka kamu tidak akan menyelesaikan penghitungannya”_.
 
@@ -38,18 +39,21 @@ Manusia yang berpuasa berarti sedang mencapai tingkat yang tinggi setara dengan 
 Sumber penyakit pada tubuh manusia ternyata ada di dalam perut besar ( _المعدة_ )sebagai penampung makanan dan minuman. Makanan yang lama mengendap tentu mengalami kebasian dan pembusukan, maka dari situlah muncul kremi, cacing, singgat dan makhluk makhluk kecil yang menjadi sumber panyakit bagi manusia. Ketika perut berpuasa, maka terjadilah pemanasan tubuh ( _الحمية_ )yang dapat membunuh makhluk-makhluk kecil yang menjadi sumber penyakit. Oleh karena itu, Rasululloh SAW bersabda :
 
 المعدة بيت الداء والحمية رأس الدواء .
+{: .text-right}
 
 “Perut besar itu gudang penyakit. Pemanasan tubuh (puasa) adalah pokok segala obat”.
 
 Hadits ini juga sinkorn dengan hadits Nabi SAW :
 
 صوموا تصحوا
+{: .text-right}
 
 _“Puasalah kamu, maka kamu akan sehat!”_.
 
 Terbukti sudah bahwa makanan dan minuman itu juga menimbulkan penyakit, di samping menciptakan kemalasan yang berarti sama dengan menghilangkan produktifitas dalam kehidupan. Sebagian Hukama berkata :
 
 من اكل كثيرا شرب كثيرا ومن كان كذلك نام كثيرا ومن كان كذلك ضاع عمره
+{: .text-right}
 
 _“Orang yang banyak makan maka akan banyak minum. Orang yang demikian maka akan banyak tidur. Orang yang demikian maka sia-sialah umurnya”_.
 
@@ -58,6 +62,7 @@ _“Orang yang banyak makan maka akan banyak minum. Orang yang demikian maka aka
 Orang yang memiliki nafsu sex tinggi (hipersex) lalu ingin menikah tetapi tidak memiliki biaya, maka puasa adalah terapi yang paling tepat. Rasululloh bersabda :
 
 يا معشر الشباب من استطاع منكم الباءة فليتزوج ومن لم يستطع فعليه بالصوم فانه له وجاء
+{: .text-right}
 
 _“Hai golongan pemuda, barangsiapa di antara kamu mampu dari segi biaya nikah maka supayalah menikah. Barangsiapa tidak mampu maka supayalah dia berpuasa, maka sesungguhnya puasa itu terapi bagi dia”_.
 
@@ -70,9 +75,11 @@ Ketika orang kaya melakukan ibadah puasa, dia merasakan rasa lapar dan dahaga, s
 Orang yang melakukan ibadah puasa itu pasti merasakan panasnya lapar dan dahaga. Maka hal itu akan menjadi pengganti bagi panasnya api neraka Jahannam kelak di akhirat. Orang yang disiksa di neraka Jahannam itu karena banyak dosa yang pernah dilakukan ketika hidup di dunia. Maka orang yang melakukan ibadah puasa, dosa-dosanya sudah dilebur melalui puasanya itu, sehingga di akhirat kelak, dia tidak akan lagi disiksa di neraka Jahannam. Olah karena itu, Rasululloh SAW bersabda :
 
 من صام رمضان ايمانا واحتسابا غفر له ما تقدم من ذنبه
+{: .text-right}
 
 _“Barangsiapa berpuasa pada bulan Ramadlon karena iman dan karena mencari pahala, maka dilebur baginya dosanya yang terdahulu”_.
 
 Uraian di atas menerangkan hikmah hikmah puasa pada bulan Ramadlon secara tafsili (terperinci). Adapun hikmah puasa secara ijmali (global) yaitu untuk meningkatkan takwa kepada Alloh SWT sebagaimana tercantum dalam ayat al-Qur’an yang berbunyi : لعلكم تتقون  _“Agar kamu bertakwa kepada Alloh SWT”_.
 
 اعوذ بالله من الشيطان الرجيم ، يا ايها الذين امنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون
+{: .text-right}
