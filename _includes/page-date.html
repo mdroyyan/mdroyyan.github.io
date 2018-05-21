@@ -1,4 +1,19 @@
 <time class="page-date dt-published" datetime="{{ page.date | date_to_xmlschema }}">
-  {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
-  <a class="u-url" href="{{ entry.url | relative_url }}">{{ page.date | date: date_format }}</a>
+  {%- assign m = page.date | date: "%-m" -%}
+  {{ page.date | date: "%-m" }}
+  {% case m %}
+    {% when '1' %}Januari
+    {% when '2' %}Februari
+    {% when '3' %}Maret
+    {% when '4' %}April
+    {% when '5' %}Mei
+    {% when '6' %}Juni
+    {% when '7' %}Juli
+    {% when '8' %}Agustus
+    {% when '9' %}September
+    {% when '10' %}Oktober
+    {% when '11' %}November
+    {% when '12' %}Desember
+  {% endcase %}
+  {{ page.date | date: "%Y" }}
 </time>

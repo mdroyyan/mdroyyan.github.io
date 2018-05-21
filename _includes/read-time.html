@@ -9,8 +9,8 @@
 
 <span class="read-time">
   {%- if words < words_per_minute -%}
-   Bacaan ~1 {{ min_read }}
+   {{ min_read }} ~1 menit
   {%- else -%}
-    Bacaan {{ words | divided_by:words_per_minute }} {{ min_read }}
+    {{ min_read }} {{ words | divided_by:words_per_minute }} menit
   {%- endif -%}
 </span>

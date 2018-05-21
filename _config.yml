@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
-locale: en-US
+locale: id-ID
 title: "Koleksi Jurnal"
 description: "Keislaman Nahdlatul Ulama."
 baseurl: # the subpath of your site, e.g. "/blog"

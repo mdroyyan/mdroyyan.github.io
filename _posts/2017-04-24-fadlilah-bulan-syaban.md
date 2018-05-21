@@ -5,6 +5,8 @@ categories:
 tags:
   - syaban
   - fadlilah
+  - puasa
+  - barakah
 ---
 _Oleh : H. Mohammad Danial Royan, Ketua PCNU Kendal_
 
@@ -20,7 +22,7 @@ Bulan Sya’ban adalah bulan kedelapan dalam tahun Hijriyah dan ada beberapa seb
 
 ## II. PUASA DI BULAN SYA’BAN
 
-Kaum muslimin disunahkan memperbanyak puasa pada barakah Sya’ban dengan dalil-dalil sebagai berikut :
+Kaum muslimin disunahkan memperbanyak puasa pada barakah Sya’ban dengan dalil-dalil sebagai berikut
 
 ##### 1. Dari A’isyah RA, berkata :
 
@@ -85,13 +87,13 @@ Fadlilah Malam Nisfu Sya’ban diakui oleh banyak ulama dari madzhab Syafii dan 
 
 Adapun amaliah yang sering dilakukan para ulama pada malam Nishfu Sya’ban adalah Membaca surah yasiin sebanyak 3x yang dilakukan sesudah shalat sunnah ba’diyah maghrib dengan Niat sebagai berikut:
 
-##### 1. Niat Yang Pertama :
+##### 1. Niat Yang Pertama
 Bacaan surat Yasin diniatkan untuk memohon umur panjang yang bermanfaat dan penuh barakah dengan berkah surat Yasin.
 
-##### 2. Niat Yang Kedua :
+##### 2. Niat Yang Kedua
 Bacaan surat Yasin yang kedua diniatkan untuk memohon ampunan dari segala dosa dan mendapat perlindungan oleh Allah dari segala kerusakan dan penyakit, serta semua hajat dikabulkan oleh Allah dengan berkah surat Yasiin.
 
-##### 3. Niat Yang Ketiga :
+##### 3. Niat Yang Ketiga
 Bacaan surat Yasin yang ketiga diniatkan untuk memohon kecukupan dalam kehidupan serta tetap memiliki iman dan islam sehingga ketika meninggal mendapat HUSNUL KHATIMAH dengan berkah surat Yasiin.
 
 Setelah membaca Yasin tiga kali, dilanjutkan dengan membaca Do’a Nisfu Sya’ban
@@ -131,7 +133,6 @@ Hadits yang berbunyi _“Surat Yasin dapat dibaca sesuai dengan niat tujuannya�
 
 Dari Ibnu Abbas bahwa Rasulullah SAW berkata kepada ‘Abbas bin Abdul Mutthalib :
 
-<p class="arabic-lang">
 يَا عَبَّاسُ يَا عَمَّاهُ أَلاَ أُعْطِيكَ أَلاَ أَمْنَحُكَ أَلاَ أَحْبُوكَ أَلاَ أَفْعَلُ بِكَ عَشْرَ خِصَالٍ إِذَا أَنْتَ فَعَلْتَ ذَلِكَ غَفَرَ اللَّهُ لَكَ ذَنْبَكَ أَوَّلَهُ وَآخِرَهُ قَدِيمَهُ وَحَدِيثَهُ خَطَأَهُ وَعَمْدَهُ صَغِيرَهُ وَكَبِيرَهُ سِرَّهُ وَعَلاَنِيَتَهُ عَشْرَ خِصَالٍ أَنْ تُصَلِّىَ أَرْبَعَ رَكَعَاتٍ تَقْرَأُ فِى كُلِّ رَكْعَةٍ فَاتِحَةَ الْكِتَابِ وَسُورَةً فَإِذَا فَرَغْتَ مِنَ الْقِرَاءَةِ فِى أَوَّلِ رَكْعَةٍ وَأَنْتَ قَائِمٌ قُلْتَ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ خَمْسَ عَشْرَةَ مَرَّةً ثُمَّ تَرْكَعُ فَتَقُولُهَا وَأَنْتَ رَاكِعٌ عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ مِنَ الرُّكُوعِ فَتَقُولُهَا عَشْرًا ثُمَّ تَهْوِى سَاجِدًا فَتَقُولُهَا وَأَنْتَ سَاجِدٌ عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ مِنَ السُّجُودِ فَتَقُولُهَا عَشْرًا ثُمَّ تَسْجُدُ فَتَقُولُهَا عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ فَتَقُولُهَا عَشْرًا فَذَلِكَ خَمْسٌ وَسَبْعُونَ فِى كُلِّ رَكْعَةٍ تَفْعَلُ ذَلِكَ فِى أَرْبَعِ رَكَعَاتٍ إِنِ اسْتَطَعْتَ أَنْ تُصَلِّيَهَا فِى كُلِّ يَوْمٍ مَرَّةً فَافْعَلْ فَإِنْ لَمْ تَفْعَلْ فَفِى كُلِّ جُمُعَةٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِى كُلِّ شَهْرٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِى كُلِّ سَنَةٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِى عُمُرِكَ مَرَّةً
 {: .text-right}
 
