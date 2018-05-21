@@ -141,3 +141,5 @@ _“Wahai Abbas, wahai pamanku, sukakah paman, aku beri, aku karuniai, aku beri 
 Sebenarnya kesunahan shalat tasbih itu tidak harus dilakukan pada malam nisfu Sya’ban, sebagaimana hadits di atas. Tetapi karena perintah Nabi SAW yang minimal bahwa shalat tasbih bisa dilakukan setahun sekali, maka pelaksanaannya oleh umumnya masyarakat muslimin dibarengkan dengan malam nisfu Sya’ban sebagai malam yang penuh kemuliaan.
 
 Wallohu A’lam Bisshowàb.
+
+_artikel ini telah dipublikasikan di [pcnukendal.id](//pcnukendal.id/fadlilah-bulan-syaban/){:target="_blank"}_

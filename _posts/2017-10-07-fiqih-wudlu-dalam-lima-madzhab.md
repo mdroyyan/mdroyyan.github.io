@@ -1,7 +1,7 @@
 ---
 title: "PERBANDINGAN FIQIH WUDLU’  DALAM LIMA MADZHAB (JA’FARI – HANAFI – MALIKI – SYAFI’I – HANBALI)"
 categories:
-  - Fiqih
+  - Fiqh
 tags:
   - wudhu
   - sayafii
@@ -123,3 +123,5 @@ Menurut Ja’fari, keluarnya darah istihadlah itu mewajibkan wudlu’ apabila se
 2. _Al-Fiqhu Alal Madzahib Al-Arba’ah karangan Syekh Abdurrahman Al-Juzairi_
 3. _Al-Fiqhu Alal Madzahib Al-Khamsah karangan Syekh Muhammad Jawad Mughniyah_
 4. _Al-Fiqhu Alal Madzahib Al-Khamsah karangan Syekh Muhammad As-Suwaid_
+
+_artikel ini telah dipublikasikan di [pcnukendal.id](//pcnukendal.id/perbandingan-fiqih-wudlu-dalam-lima-madzhab-jafari-hanafi-maliki-syafii-hanbali/){:target="_blank"}_

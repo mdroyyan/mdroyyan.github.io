@@ -1,16 +1,16 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Depan
   url: /
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
+- title: Artikel
+  url: /artikel/
+- title: Kategori
+  url: /kategori/
+- title: Grup
+  url: /grup/
 # - title: Recipes
 #   url: /recipes/
-- title: Search
-  url: /search/
+- title: Cari
+  url: /cari/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html

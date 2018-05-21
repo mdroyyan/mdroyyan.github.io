@@ -1,7 +1,7 @@
 ---
-title: Tag Archive
+title: Arsip Grup
 layout: tags
-permalink: /tags/
+permalink: /grup/
 show_excerpts: true
 entries_layout: list
 ---

@@ -1,7 +1,7 @@
 ---
-title: Category Archive
+title: Arsip Kategori
 layout: categories
-permalink: /categories/
+permalink: /kategori/
 show_excerpts: true
 entries_layout: list
 ---

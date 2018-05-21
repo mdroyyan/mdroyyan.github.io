@@ -1,7 +1,7 @@
 ---
-title: Post Archive
+title: Arsip Artikel
 layout: posts
-permalink: /posts/
+permalink: /artikel/
 show_excerpts: true
 entries_layout: list
 ---

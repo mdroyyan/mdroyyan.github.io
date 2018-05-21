@@ -1,6 +1,6 @@
 ---
-title: Search
+title: Pencarian
 layout: search
-permalink: /search/
+permalink: /cari/
 sitemap: false
 ---
