@@ -45,7 +45,7 @@ Sedangkan teroris yang mati karena ditembak oleh Densus 88 masih wajib dishalati
 
 ### D. Referensi
 
-أهل البغي هم طائفة من الناس جمعت بين ثلاثة أمور :
+: أهل البغي هم طائفة من الناس جمعت بين ثلاثة أمور
 {: .text-right}
 
 ١. التمرد على سلطة الدولة بالامتناع عن أداء الحقوق، وطاعة القوانين.
