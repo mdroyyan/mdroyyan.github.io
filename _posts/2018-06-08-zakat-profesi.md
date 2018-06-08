@@ -27,7 +27,7 @@ Alasan hukum diwajibkannya zakat profesi ada dua hal:
 
 Ada pendapat fikih dari selain madzhab Syafi'i yang mengatakanbahwa kewajiban zakat harta penghasilan itu tidak perlu menunggu setahun, asal penghasilan yang didapat itu sudah mencapat satu nishab maka langsung wajib zakat.
 
-Nishab zakat harta penghasilan (zakat profesi) disamakan dengan zakat _tijarah_ yaitu jika penghasilan dari profesi itu mencapai jumlah uang atau barang yang nilai kursnya setara dengan emas seberat 80 gram, dan kewajiban zakatnya yaitu seper empat puluh ( `العشر ربع` ) atau 2,5%.
+Nishab zakat harta penghasilan (zakat profesi) disamakan dengan zakat _tijarah_ yaitu jika penghasilan dari profesi itu mencapai jumlah uang atau barang yang nilai kursnya setara dengan emas seberat 80 gram, dan kewajiban zakatnya yaitu seper empat puluh ( `ربع العشر` ) atau 2,5%.
 
 Jadi kalau ada pegawai, karyawan atau pejabat yang mendapat gaji tiap bulan lalu dikalikan 12 bulan dalam setahun mencapai jumlah uang yang nilai kursnya setara dengan emas 80 gram (sekitar 40 juta rupiah) maka orang itu sudah berkewajiban membayar zakat 2,5% dari jumlah gaji dalam setahun tersebut.  Memang zakat profesi itu tidak termasuk "*hal yang ditentukan*" ( `منصوصات` ) dalam syariat Islam, tetapi menurut Imam Ghozali termasuk "*hal yang dipersamakan*" ( `ملحقات` ) dengan hal yang ditentukan.
 
