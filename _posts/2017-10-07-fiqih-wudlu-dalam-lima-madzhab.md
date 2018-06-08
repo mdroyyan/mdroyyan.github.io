@@ -1,6 +1,6 @@
 ---
 title: "Perbandingan Fiqih Wudlu’ dalam Lima Madzhab (Ja’fari – Hanafi – Maliki – Syafi’i – Hanbali)"
-excerpt: "Yang perlu diketahui saat keadaan untuk berpindah diperlukan agar tidak terjadi **Talfiq** (perangkapan madzhab)"
+excerpt: "Yang perlu diketahui saat keadaan untuk berpindah madzhab diperlukan agar tidak terjadi **Talfiq** (perangkapan madzhab)"
 categories:
   - Fiqh
 tags:
