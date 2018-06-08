@@ -1,5 +1,6 @@
 ---
-title: "BOLEHKAH JENAZAH TERORIS DISHALATI?"
+title: "Bolehkah Jenazah Teroris Dishalati?"
+excerpt: "Penolakan warga untuk melakukan shalat jenazah pelaku teroris"
 categories:
   - Fiqh
 tags:

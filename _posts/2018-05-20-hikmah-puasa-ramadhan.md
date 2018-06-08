@@ -1,5 +1,6 @@
 ---
-title: "HIKMAH PUASA PADA BULAN RAMADLON"
+title: "Hikmah Puasa pada Bulan Ramadlon"
+excerpt: "Agar dalam melaksanakan puasa Ramadlon lebih khusuk dan meyentuh hati."
 categories:
   - Keislaman
 tags:

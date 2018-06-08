@@ -1,5 +1,6 @@
 ---
-title: "FADLILAH BULAN SYA’BAN"
+title: "Fadlilah Bulan Sya’ban"
+excerpt: "Pengenalan terhadap bulan Sya’ban, dan mengapa dinamai bulan Sya’ban serta keutamaannya"
 categories:
   - Keislaman
 tags:

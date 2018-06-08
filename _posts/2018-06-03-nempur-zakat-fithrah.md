@@ -1,5 +1,6 @@
 ---
 title: "Tradisi Nempur Dalam Zakat Fithrah"
+excerpt: "Jawaban Terhadap Ustad Abdul Somad. Tentang pelaksanaan zakat fitrah dengan uang"
 categories:
   - Fiqh
 tags:

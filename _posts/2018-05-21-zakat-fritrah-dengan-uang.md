@@ -1,5 +1,6 @@
 ---
-title: "HUKUM MEMBAYAR ZAKAT FITHRAH DENGAN UANG"
+title: "Hukum Membayar Zakat Fithrah dengan Uang"
+excerpt: "Pelakasanaan zakat fithrah ketika berada di negeri orang"
 categories:
   - Fiqh
 tags:
