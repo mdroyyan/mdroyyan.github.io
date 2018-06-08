@@ -23,7 +23,7 @@ Uraian di atas, menggambarkan karakteristik atau sifat-sifat imam dan khathib ya
 
 ## II. KEWENANGAN MEMILIH IMAM DAN KHATHIB
 
-Imam Mawardi dalam kitabnya _Al-Ahkamus Sulthaniyah_[\\( ^1 \\)](#note1) membagi imamah menjadi tiga bagian:
+Imam Mawardi dalam kitabnya _Al-Ahkamus Sulthaniyah_<sup>**[1](#note1)**</sup> membagi imamah menjadi tiga bagian:
 
 1. Imamah dalam shalat lima waktu
 2. Imamah dalam shalat jum’ah
@@ -194,6 +194,8 @@ Sebaiknya orang yang menjadi Khathib juga sekaligus menjadi Imam, dan hal itu ti
 
 Demikian tulisan ini saya sampaikan, semoga bermanfaat bagi segenap imam dan khathib dalam menjalankan wadhifahnya sebagai imam di dalam shalat juga imam di luar shalat, dan sebagai khathib yang meneruskan peran yang pernah dilakukan Rasulullah SAW, Aamiin
 
+
+## VI. KEPUSTAKAAN
 <ol>
 <li id="note1">Al-Ahkamus Sulthaniyah hal 100</li>
 <li id="note2">Al-Ahkamus Sulthaniyyah halaman 5</li>
