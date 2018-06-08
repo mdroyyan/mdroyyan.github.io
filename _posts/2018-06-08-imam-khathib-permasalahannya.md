@@ -1,5 +1,5 @@
 ---
-title: "Imam, Khathib, dan Masalahnya"
+title: "Imam, Khathib, dan Permasalahannya"
 excerpt: "Renungan hari jum’at: Ketika imam dan khathib belum mengetahui syarat rukun tatacara shalat berjama’ah, dan belum dapat membedakan antara khuthbah dan pidato atau ceramah"
 categories:
   - Keislaman
