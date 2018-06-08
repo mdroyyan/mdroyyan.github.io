@@ -77,7 +77,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  album:
     output: true
     permalink: /:collection/:path/
 
@@ -93,8 +93,8 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_album"
+      type: album
     values:
       layout: post
       comments: true
