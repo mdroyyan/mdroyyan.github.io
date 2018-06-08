@@ -1,5 +1,5 @@
 ---
-title: "Imam, Khathib dan Permasalahannya"
+title: "Imam, Khathib, dan Masalahnya"
 excerpt: "Renungan hari jum’at: Ketika imam dan khathib belum mengetahui syarat rukun tatacara shalat berjama’ah, dan belum dapat membedakan antara khuthbah dan pidato atau ceramah"
 categories:
   - Keislaman
@@ -37,7 +37,7 @@ Imam Fakhruddin Ar-Razi dan Imam Izzuddin bin Abdissalam dulu menjadi imam utama
 
 #### A. PENGERTIAN IMAMAH DAN IMAM
 
-Imam adalah orang yang menjadi pemimpin yang menjadi panutan baik dalam kebaikan atau kejahatan. Imamah ada dua:
+Imamah adalah sifat kepemimpinan yang disandang oleh imam, imamah ada dua:
 
 1. Imamah Kubro
 2. Imamah Shughro
