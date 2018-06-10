@@ -13,7 +13,11 @@ _Oleh: Mohammad Danial Royyan_
 
 ### I. Umar Bin Abdul Aziz
 
-Dia adalah putra Abdul Aziz bin Marwan bin Hakam dari Bani Umayyah. Ibunya bernama Ummu Ashim Laila binti Ashim bin Umar bin Khotthob RA. Sifat-sifat kepemimpinan dan keadilannya diwarisi dari kakeknya, Umar bin Khotthob. Dia lahir pada tahun 61 H dan wafat pada tahun 101 H. Jabatan khalifah selama dua tahun empat bulan yang diembannya dengan keadilan dan kejujuran dapat menjadikan tingkat ekonomi negara keadilan dan kejujuran dapat menjadikan tingkat ekonomi negara naik melesat tinggi hingga orang- orang kaya kebingungan ketika akan membayar zakat karena tidak ada fakir miskin yang mau menerima zakat. Kondisi ekonomi yang stabil itu juga diimbangi dengan kondisi keamanan negara dan kerukunan rakyatnya. Hal itu menjadikan dia dicintai rakyatnya, hingga pada saat iedul fithri mayoritas ulama dan berbagai lapisan masyarakat bersilaturrahim kepadanya untuk menyampaikan Tahniah Ied.
+Dia adalah putra Abdul Aziz bin Marwan bin Hakam dari Bani Umayyah. Ibunya bernama Ummu Ashim Laila binti Ashim bin Umar bin Khotthob RA. Sifat-sifat kepemimpinan dan keadilannya diwarisi dari kakeknya, Umar bin Khotthob. Dia lahir pada tahun 61 H dan wafat pada tahun 101 H.
+
+Jabatan khalifah selama dua tahun empat bulan yang diembannya dengan keadilan dan kejujuran dapat menjadikan tingkat ekonomi negara naik melesat tinggi hingga orang-orang kaya kebingungan ketika akan membayar zakat karena tidak ada fakir miskin yang mau menerima zakat.
+
+Kondisi ekonomi yang stabil itu juga diimbangi dengan kondisi keamanan negara dan kerukunan rakyatnya. Hal itu menjadikan dia dicintai rakyatnya, hingga pada saat iedul fithri mayoritas ulama dan berbagai lapisan masyarakat bersilaturrahim kepadanya untuk menyampaikan Tahniah Ied.
 
 > Tradisi Tahni'ah di Iedul Fithri, Umar Bin Abdul Aziz Yang Memulainya
 
@@ -26,7 +30,8 @@ Dari Jubair bin Nufair, berkata : *“Para sahabat Nabi SAW setiap hari raya ied
 
 Tetapi tahniah ied yang terjadi pada era sahabat itu belum membudaya dan hal itu merupakan embrio bagi tahniah Ied yang bersifat massif dan membudaya secara Islami pada era kekhalifahan Umar bin Abdul Aziz. Di dalam kitab Ikhbarul Muhtadin hal 46, disebutkan bahwa Umar bin Abdul Aziz adalah orang yang memulai adanya budaya Taniah Iedil Fithri dengan kalimat **"Taqabbalalloh Minna Wa Minkum"**.
 
-اخرج ابن عساكر عن ابراهيم بن ابي عبلة قال دخلنا على عمر بن العزيز يوم العيد والناس يسلمون عليه ويقولون تقبل الله منا ومنك يا امير المؤمنين فيرد عليهم ولا ينكر عليهم. وهذا الاثر دليل هلى ان تهنئة العيد حسنة غير منكرة.
+
+اخرج ابن عساكر عن ابراهيم بن ابي عبلة قال دخلنا على عمر بن العزيز يوم العيد والناس يسلمون عليه ويقولون تقبل الله منا ومنك يا امير المؤمنين فيرد عليهم ولا ينكر عليهم. وهذا الاثر دليل على ان تهنئة العيد حسنة غير منكرة
 {: .text-right}
 
 Ibnu Asakir meriwayatkan dari Ibrahim bin Abi Ablah yang mengatakan: “_Kami pada hari raya bertamu kepada Umar bin Abdul Aziz dan banyak orang yang bersalam kepadanya dengan ungkapan ‘`Taqabbalallohu Minna Waminka Ya Amiral Mukminin`’. Maka Umar menjawab salam mereka (dengan ungkapan yang sama) dan tidak menyalahkan mereka._”
@@ -51,7 +56,7 @@ Kunjungan dan silaturrahim kepada keluarga dan kerabat itu disunnahkan pada seti
 
 _Allah berfirman : “**Dan orang-orang yang menyambungkan apa yang diperintahkan Allah untuk disambungkan, dan takut kepada Tuhan mereka dan takut kepada buruknya perhitungan amal**”_. Arra’du : 21.
 
-َعنِ اْبنِِشَهاٍبَقاَل : اْخَبَرِني اَنُس ْبُنَماِلٍك ، ان َرُسوَل الله صلى الله عليه وسلمَ قاَل : َمْن اَحب اْن ُيْبَسَط لَُه ِفيِ رْزِقِه ، َوُيْنَسأْله ِفيِ اَثِرِه ، َفْلَيِص َرِحَمُه. أخرجه أحمد (247/3)  - 13620 ، والُبَخاِري (3/73) - 2067 ، ومسلم (8/8) - 6615
+عَنِ ابْنِ شِهَابٍ قَالَ : أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ:مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ ، وَيُنْسَأَ لَهُ فِي أَثَرِهِ ، فَلْيَصِلْ رَحِمَهُ. أخرجه أحمد 3/247 (13620) والبُخَارِي 3/73 (2067) ومسلم 8/8(6615).
 {: .text-right}
 
 *Dari Ibn Syihab, berkata : Aku diberi khabar oleh Anas bin Malik, bahwa Rasululloh SAW bersabda : “**Barangsiapa ingin dilapangkan rizqinya dan dipanjangkan umurnya, maka supaya silaturrahim**”. HR Ahmad 3/247 (13620), Bukhari 3/73 (2067), dan Muslim 8/8 (6615).*
@@ -83,7 +88,7 @@ Muanaqoh atau berrangkulan dalam sebuah pertemuan setelah lama berpisah itu huku
 
 _Dari Aun bin Abi Juhaifah, dari ayahnya yaitu Wahab bin Abdillah, berkata: "**Ketika Ja'far bin Abi Thalib datang dari hijrahnya di Abbesinia maka dia ditemui Nabi SAW, lalu Nabi merangkulnya dan mencium kening antara kedua matanya**."_
 
-Muanaqoh atau berrangkulan itu seringkali disertai dengan saling mencium, yang dalam tradisi seringkali disertai dengan saling mencium, yang dalam tradisi Nusantara dilakukan dengan cium pipi kanan dan cium pipi kiri (cipika cipiki).
+Muanaqoh atau berrangkulan itu seringkali disertai dengan saling mencium, yang dalam tradisi Nusantara dilakukan dengan cium pipi kanan dan cium pipi kiri (cipika cipiki).
 
 Maka tradisi itu menurut Imam Nawawi dalam kitab _Al-Adzkàr_ disunnahkan dalam dua hal: 
 1. Ketika bertemu setelah lama berpisah seperti menyambut orang yang pulang dari perjalanan jauh. 
