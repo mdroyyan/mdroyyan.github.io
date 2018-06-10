@@ -23,7 +23,7 @@ Kondisi ekonomi yang stabil itu juga diimbangi dengan kondisi keamanan negara da
 
 Tahni’ah Ied atau ucapan selamat hari raya memang berawal dari para sahabat Nabi SAW yang setiap ada hari raya iedul fitri satu sama lain saling mengucapkan selamat hari raya dengan ungkapan "Taqabbalallhu Minna Waminka," sebagaimana riwayat di bawah ini:
 
-عن جبير بن نفير قال: كان أصحاب النبي صلى الله عليه وسلم إذا التقوا يوم العيد، يقول بعضهم لبعض: تقبل ا منا ومنك . قال الإمام أحمد: إسناده جيد، وحسن الحافظ إسناده في فتح (2/517) الباري
+عن جبير بن نفير قال: كان أصحاب النبي صلى الله عليه وسلم إذا التقوا يوم العيد، يقول بعضهم لبعض: تقبل الله منا ومنك . قال الإمام أحمد: إسناده جيد، وحسن الحافظ إسناده في فتح (2/517) الباري
 {: .text-right}
 
 Dari Jubair bin Nufair, berkata : *“Para sahabat Nabi SAW setiap hari raya ied satu sama lain selalu mengucapkan Taqabbalallohu Minna Waminka (semoga Alloh menerima ibadah puasa dari kami dan darimu)”*. Imam Ahmad berkata : Isnad hadis ini bagus, demikian juga Imam Ibn Hajar Al- Asqalani dalam Fathul Bari Juz II halaman 517.
