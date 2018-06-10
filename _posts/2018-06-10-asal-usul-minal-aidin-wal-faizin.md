@@ -98,6 +98,6 @@ Maka tradisi itu menurut Imam Nawawi dalam kitab _Al-Adzkàr_ disunnahkan dalam 
 
 1. Al-Adzkàr karangan Imam Abu Zakaria Yahya bin Syaraf An-Nawawi.
 2. Al-Musnad karangan Imam Ahmad bin Hanbal As-Syaibani.
-3. Shahih Al-Bukhari karangan Imam Muhammad bin Ismal Al-Bukhari.
+3. Shahih Al-Bukhari karangan Imam Muhammad bin Ismail Al-Bukhari.
 4. Shahih Muslim karangan Imam Muslim bin Al-Hajjaj An-Nìsaburi.
 5. Ikhbàrul Muhtadin An Akhbàril Mujaddidìn karangan Mohammad Danial Royyan.
