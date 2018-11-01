@@ -1,5 +1,5 @@
 ---
-title: "Salaf, Salafi dan Salafiyyah. Apa dan Sisapa Sebenarnya?"
+title: "Salaf, Salafi dan Salafiyyah. Apa dan Siapa Sebenarnya?"
 excerpt: "Pembahasan dan makna dari golongan orang-orang terdahulu"
 categories:
   - Fiqh
