@@ -36,17 +36,17 @@ Kedua hadits di atas digubah menjadi syair oleh Syekh Muhammad bin Nashiruddin A
 
 * اذا كان هذا كافرا جاء ذمه 
 {: .text-right}
-+ بتبت يداه في الجحيم مخلدا
-{: .text-right}
+ + بتبت يداه في الجحيم مخلدا
+ {: .text-right}
 
 * اتى انه في الاثنين كان دائما 
 {: .text-right}
-+ يخفف عنه للسرور باحمدا
-{: .text-right}            
+ + يخفف عنه للسرور باحمدا
+ {: .text-right}            
 
 فما الظن بالعبد الذي كان عمره 
 {: .text-right}
-[tab][tab][tab][tab][tab][tab]باحمد مسرورا ومات موحدا
+باحمد مسرورا ومات موحدا&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {: .text-right}
 
 _Apabila Abu Lahab itu seorang kafir yang dikecam Allah dengan "Tabbat Yadàhu" dan dia selamanya disiksa di neraka Jahìm,_
