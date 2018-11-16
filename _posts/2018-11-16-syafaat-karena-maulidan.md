@@ -34,19 +34,19 @@ As-Suhaily menyebutkan bahwa Al-Abbas berkata: _Ketika Abu Lahab telah mati, aku
 
 Kedua hadits di atas digubah menjadi syair oleh Syekh Muhammad bin Nashiruddin Ad-Dimsyaqy sebagai berikut:
 
-* اذا كان هذا كافرا جاء ذمه 
+اذا كان هذا كافرا جاء ذمه 
 {: .text-right}
- + بتبت يداه في الجحيم مخلدا
- {: .text-right}
+بتبت يداه في الجحيم مخلدا&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{: .text-right}
 
-* اتى انه في الاثنين كان دائما 
+اتى انه في الاثنين كان دائما 
 {: .text-right}
- + يخفف عنه للسرور باحمدا
- {: .text-right}            
+يخفف عنه للسرور باحمدا&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{: .text-right}            
 
 فما الظن بالعبد الذي كان عمره 
 {: .text-right}
-باحمد مسرورا ومات موحدا&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+باحمد مسرورا ومات موحدا&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {: .text-right}
 
 _Apabila Abu Lahab itu seorang kafir yang dikecam Allah dengan "Tabbat Yadàhu" dan dia selamanya disiksa di neraka Jahìm,_
