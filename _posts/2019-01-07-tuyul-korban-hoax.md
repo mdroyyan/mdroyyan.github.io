@@ -2,7 +2,7 @@
 title: "Tuyul jadi Korban HOAX"
 excerpt: "Cerita saat panitia pembangunan masjid kehilangan uang"
 categories:
-  - Kisah
+  - Anekdot
 tags:
   - tuyul
   - hoax

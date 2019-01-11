@@ -2,14 +2,11 @@
 title: "Nabi Ibrahim AS. adalah Bapak Peradaban"
 excerpt: "Umat manusia mempunyai Bapak Biologi bernama Nabi Adam AS. Akan tetapi Bapak umat manusia dalam dimensi peradaban dan prinsip-prinsip kepemimpinan adalah Nabi Ibrahim AS."
 categories:
-  - Fiqh
+  - Sejarah
 tags:
-  - wudhu
-  - sayafii
-  - maliki
-  - hambali
-  - hanafi
-  - jafari
+  - ibrahim
+  - kepemimpinan
+  - peradaban
 ---
 
 _Oleh Mohammad Danial Royyan_
