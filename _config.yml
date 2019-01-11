@@ -35,7 +35,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: mdroyyan # site's Twitter username
+  username: danialroyyan # site's Twitter username
 
 # Liquid
 liquid:
@@ -105,17 +105,29 @@ author:
   name: Mohammad Danial Royyan
   picture: /images/011_20180520_050347.jpg
   email:
-  twitter: mdroyyan
+  twitter: danialroyyan
   links:
-    - title: Twitter
-      url: https://twitter.com/mdroyyan
+    - title: twitter
+      url: https://twitter.com/danialroyyan
       icon: fab fa-twitter-square
+    - title: instagram
+      url: https://instagram.com/danialroyyan
+      icon: fab fa-instagram
+    - title: facebook
+      url: https://facebook.com/mdanialroyyan
+      icon: fab fa-facebook-square
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/mdroyyan
+  - title: twitter
+    url: https://twitter.com/danialroyyan
     icon: fab fa-twitter-square
+  - title: instagram
+    url: https://instagram.com/danialroyyan
+    icon: fab fa-instagram
+  - title: facebook
+    url: https://facebook.com/mdanialroyyan
+    icon: fab fa-facebook-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
