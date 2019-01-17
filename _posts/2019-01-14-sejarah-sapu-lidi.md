@@ -1,5 +1,5 @@
 ---
-title: "Kisah Sapu Lidi"
+title: "Sejarah Sapu Lidi"
 excerpt: "Nabi Ayyub AS pernah mengalami sakit kulit selama 18 tahun"
 categories:
   - kisah
