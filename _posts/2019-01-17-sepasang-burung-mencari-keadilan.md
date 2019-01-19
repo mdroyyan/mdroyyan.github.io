@@ -1,5 +1,5 @@
 ---
-title: "Sepasang Burung Mencari Keadialan"
+title: "Sepasang Burung Mencari Keadilan"
 excerpt: "Diriwayatkan dalam sebuah hadits ada sepasang burung menghadap Sulaiman untuk mencari keadilan karena setiap kali bertelur selalu saja telurnya dicuri manusia."
 categories:
   - Kisah
