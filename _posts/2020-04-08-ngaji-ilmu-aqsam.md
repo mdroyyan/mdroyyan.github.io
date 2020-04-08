@@ -46,6 +46,7 @@ Hal itu difatwakan oleh _Imam Ibnu Hajar Al-Haitami_ dalam kitab **Al-Fatàwi Al
 Waktu Dhuha dan Waktu Malam dijadikan **Al-Muqsam Bihi** dalam surat ini, karena keduanya adalah waktu yang sangat penting, sehingga Nabi SAW sebagai _As-Syàri'_, mensyariatkan Sholat Dluha dan Sholat Malam atau Tahajjud. Hukum kedua sholat itu adalah wajib bagi pribadi Nabi SAW, tetapi sunnah mu'akkadah bagi semua ummatnya.
 
 Nabi SAW bersabda:
+
 لا فقر مع الضحى
 {: .text-right}
 
