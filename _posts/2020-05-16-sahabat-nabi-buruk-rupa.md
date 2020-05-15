@@ -1,5 +1,5 @@
 ---
-title: "Kisah Sahabat yang Dicintai Nabi saw, Mesi Melarat dan BUruk Rupa"
+title: "Kisah Sahabat yang Dicintai Nabi saw, Meski Melarat dan BUruk Rupa"
 excerpt: "Sahabat Anas bin Malik RA berkata: *\"Di antara para sahabat Nabi ada lelaki yang memiliki tampan yang buruk bernama Julaibib. Dia orang yang melarat tetapi sering duduk di samping Nabi\"*."
 categories:
   - kisah
