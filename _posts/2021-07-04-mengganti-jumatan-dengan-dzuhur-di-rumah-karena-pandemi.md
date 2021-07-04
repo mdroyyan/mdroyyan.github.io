@@ -16,7 +16,7 @@ Maka bagaimana hukumnya mengosongkan masjid dan meliburkan jum'ah serta menggant
 
 ### B. Jawaban
 
-Menutup masjid dan meliburkan jum'ah serta menggantinya dengan shalat dhuhur di rumah secara sementara, tidak secara permanen dengan alasan untuk menyelamatkan jiwa manusia dari penularan virus covid-19 yang disebabkan kerumunan banyak orang hukumnya diperbolehkan. Hal itu sesuai dengan kewajiban menjaga keselamatan jiwa manusia _(حفظ النفس)_ sebagai salah tujuan agama yang jumlahnya ada lima _(مقاصد الشرع الخمسة)_.
+Menutup masjid dan meliburkan jum'ah serta menggantinya dengan shalat dhuhur di rumah secara sementara, tidak secara permanen dengan alasan untuk menyelamatkan jiwa manusia dari penularan virus covid-19 yang disebabkan kerumunan banyak orang hukumnya diperbolehkan. Hal itu sesuai dengan kewajiban menjaga keselamatan jiwa manusia _(حفظ النفس)_ sebagai salah satu tujuan agama yang jumlahnya ada lima _(مقاصد الشرع الخمسة)_.
 
 Ketika pada zaman Nabi SAW dulu, kondisi tanah di Madinah becek karena hujan deras, Nabi SAW memerintahkan kaum muslimin penduduk Madinah supaya melakukan shalat di rumah. Bahkan shighat adzan ditambahi dengan kalimat: _صلوا في بيوتكم_ (shalatlah di rumah kalian). Dalam hadits riwayat Ibnu Umar dan Ibnu Abbas, Nabi SAW menmerintahkan muadzin untuk mengucapkan _صلوا في رحالكم_ (shalatlah di rumah kalian). Perintah Nabi SAW tersebut ditujukan untuk kasih sayang kepada kaum muslimin _(رحمة للمسلمين)_.
 
