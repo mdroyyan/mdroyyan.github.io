@@ -1,6 +1,6 @@
 ---
 title: "Posisi Berdirinya Imam dan Posisi Kepala Mayit Ketika Shalat Jenazah"
-excerpt: "Pertanyaan tentang apakah dibolehkan kurban tanpa menyembelih hewan (unta, sapi atau kambing) tetapi diganti dengan memberikan sejumlah _uang_ kepada fakir-miskin sebagai pengganti kurban"
+excerpt: "Pertanyaan tentang imam dalam sholat jenazah dan peletakan jenazah saat disholati"
 categories:
   - Fiqh
 tags:
