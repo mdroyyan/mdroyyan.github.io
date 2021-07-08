@@ -27,6 +27,7 @@ Jika dalam kondisi hujan dan tanah becek saja boleh meninggalkan jama'ah shalat 
 Mengenai kondisi wabah, Nabi SAW pun pernah mengajarkan agar kita menghindari tempat-tempat yang di dalamnya terjadi wabah sebagai berikut:
 
 “إذا سمعتم به بأرض فلا تدخلوا عليه وإذا وقع بأرض وأنتم بها فلا تخرجوا منها فرارًا منه” (متفق عليه)
+{: .text-right}
 
 _Jika kalian mendengar tentang wabah di suatu negeri, maka janganlah kalian memasukinya. Tetapi jika terjadi wabah di suatu tempat dan kalian berada di tempat itu, maka janganlah kalian meninggalkannya (HR Bukhari dan Muslim)_
 
