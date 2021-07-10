@@ -6,6 +6,7 @@ categories:
 tags:
   - wabah
   - kisah
+  - pandemi
 ---
 
 Pada zaman pemerintahan Islam yang sangat adil di bawah kepemimpinan Khalifah Umar bin Al-Khtthab RA, terjadi penularan virus _Tho'un_ di negeri Syam. Syam itu sekarang ini sudah menjadi empat negara: Suriah, Jordania, Lebanon dan Palestina. Penularan virus Tho'un itu dimulai dari kampung Amwas sehingga terkenal dengan sebutan **Tho'un Amwas** _(طاعون عمواس)_. 
@@ -14,7 +15,7 @@ Era itu adalah era ekspansi (perluasan wilayah) Islam yang pertama terjadi dalam
 
 Namun Abu Ubaidah akhirnya meninggal dunia karena terpapar Tho'un, Radliyallohu Anhu. Kemudian posisi Abu Ubaidah digantikan oleh Muadz bin Jabal. Dia terkenal sebagai pakar fiqih di kalangan para sahabat. Dia juga yang diperintah Nabi SAW untuk mengislamkan penduduk negeri Yaman. Dari Yaman itulah terjadi proses Islamisasi di nusantara yang kita huni ini. Muadz sebagai panglima akhirnya juga meniggal dunia akibat terpapar Tho'un, Radliyalloh Anhu.
 
-Setelah Muadz meninggal, posisinya digantikan oleh seorang sahabat yang ahli di bidang strategi politik yaitu Amr bin Al-Ash. Dia ini yang menganjurkan masyarakat Syam untuk melakukan isolasi di pegunungan. Akhirnya dia dan kaum muslimin melakukan isolasi di gunung-gunung hingga Allah akhirnya mengangkat virus Tho'un dari Syam dan dari negeri-negeri Islam yang lain. Setelah gagasan Amr bin Al-Ash yentang isolasi itu sampai ke telinga Khalifah Umar, beliau setuju sekali dan menganjurkannya.
+Setelah Muadz meninggal, posisinya digantikan oleh seorang sahabat yang ahli di bidang strategi politik yaitu Amr bin Al-Ash. Dia ini yang menganjurkan masyarakat Syam untuk melakukan isolasi di pegunungan. Akhirnya dia dan kaum muslimin melakukan isolasi di gunung-gunung hingga Allah akhirnya mengangkat virus Tho'un dari Syam dan dari negeri-negeri Islam yang lain. Setelah gagasan Amr bin Al-Ash tentang isolasi itu sampai ke telinga Khalifah Umar, beliau setuju sekali dan menganjurkannya.
 
 Pidato Amr bin Al-Ash di depan masyarakat Syam berbunyi: _"Wahai masyarakat Syam, sungguh virus Tho'un ini ketika mengganas, dia menyala seperti nyala api, maka kalian harus lakukan isolasi di gunung-gunung untuk menghindarinya"_.
 
