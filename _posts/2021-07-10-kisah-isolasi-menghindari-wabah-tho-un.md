@@ -1,6 +1,6 @@
 ---
 title: "Kisah Isolasi Menghindari Wabah Tho'un"
-excerpt: "Pengenalan terhadap bulan Sya’ban, dan mengapa dinamai bulan Sya’ban serta keutamaannya"
+excerpt: "Pada zaman pemerintahan Islam yang sangat adil di bawah kepemimpinan Khalifah Umar bin Al-Khtthab RA, terjadi penularan virus _Tho'un_ di negeri Syam"
 categories:
   - Keislaman
 tags:
@@ -12,6 +12,8 @@ tags:
 Pada zaman pemerintahan Islam yang sangat adil di bawah kepemimpinan Khalifah Umar bin Al-Khtthab RA, terjadi penularan virus _Tho'un_ di negeri Syam. Syam itu sekarang ini sudah menjadi empat negara: Suriah, Jordania, Lebanon dan Palestina. Penularan virus Tho'un itu dimulai dari kampung Amwas sehingga terkenal dengan sebutan **Tho'un Amwas** _(طاعون عمواس)_. 
 
 Era itu adalah era ekspansi (perluasan wilayah) Islam yang pertama terjadi dalam sejarah Islam. Panglima perang yang pertama diangkat untuk Syam oleh Khalifah Umar adalah Abu Ubaidah bin Al-Jarràh. Dia salah satu dari sepuluh sahabat yang dijamin masuk surga oleh Nabi SAW. Dia terkenal dengan titel **Kepercayaan Rasululloh SAW** _(امين رسول الله)_. 
+
+Ketika virus Tho'un mewabah di negeri Syam, Abu Ubaidah dalam pidatonya berkata: _"Wahai masyarakat Syam, sungguh penyakit Tho'un ini rahmat bagi kalian, doa dari nabi kalian, kematian orang-orang saleh sebelum kalian dan sungguh Abu Ubaidah meminta bagian pahala Allah dari penyakit ini"_.
 
 Namun Abu Ubaidah akhirnya meninggal dunia karena terpapar Tho'un, Radliyallohu Anhu. Kemudian posisi Abu Ubaidah digantikan oleh Muadz bin Jabal. Dia terkenal sebagai pakar fiqih di kalangan para sahabat. Dia juga yang diperintah Nabi SAW untuk mengislamkan penduduk negeri Yaman. Dari Yaman itulah terjadi proses Islamisasi di nusantara yang kita huni ini. Muadz sebagai panglima akhirnya juga meniggal dunia akibat terpapar Tho'un, Radliyalloh Anhu.
 
