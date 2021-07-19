@@ -12,7 +12,7 @@ tags:
 
 Manasik adalah bentuk jamak dari kosakata **"Mansak"** yang artinya secara bahasa adalah _ibadah_. Mansak terkadang diucapkan menjadi **"Nusuk"** sebagaimana dalam doa iftitah sebelum bacaan Al-Fatihah dalam sholat. Di dalam kitab _Zàd Al-Mustaqni'_, diterangkan bahwa yang dimaksud dengan Manasik adalah _amalan-amalan ibadah yang terkait dengan haji dan umroh_.
 
-Manasik haji itu banyak ragamnya, ada yang rukun, ada yang wajib dan ada yang sunnah. Manasik yang banyak itu bisa diurutkan menjadi tiga arus utama: arus Arofah, arus Musdalifah dan arus Mina, sehingga disingkat menjadi **"ARMINA"**. Begitu pula dengan kehidupan manusia, yang bisa ditafsir dari tiga arus tersebut.
+Manasik haji itu banyak ragamnya, ada yang rukun, ada yang wajib dan ada yang sunnah. Manasik yang banyak itu bisa diurutkan menjadi tiga arus utama: arus Arofah, arus Musdalifah dan arus Mina, sehingga disingkat menjadi **"ARMINA"**. Begitu pula dengan kehidupan manusia, ada tafsir yang bisa diambil dari tiga arus itu.
 
 ## I. Arus Pertama: AROFAH.
 
