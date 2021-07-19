@@ -1,6 +1,6 @@
 ---
 title: "Memetik Tafsir Kehidupan Dari Manasik Haji"
-excerpt: "Tiga arus utama manasik haji: arus Arofah, arus Musdalifah dan arus Mina, sehingga disingkat menjadi **"ARMINA"**, dan kehidupan manusia yang bisa diambil dari tiga arus itu"
+excerpt: "Tiga arus utama manasik haji: arus Arofah, arus Musdalifah dan arus Mina, sehingga disingkat menjadi **ARMINA**, dan kehidupan manusia yang bisa diambil dari tiga arus itu"
 categories:
   - Keislaman
 tags:
