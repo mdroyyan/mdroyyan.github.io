@@ -12,7 +12,7 @@ tags:
 
 Orang yang awam tidak akan mengetahui bahwa sarung **BHS** songket harganya mahal, dikiranya sama saja dengan sarung bermerk **Gajah Duduk**. Begitu pula seorang wali yang hatinya penuh dengan ilmu dan makrifat tetapi hidup dalam kesahajaan, maka kebanyakan orang awam tidak akan menganggapnya sebagai wali, tapi menganggapnya sebagai orang miskin yang rendah derajatnya.
 
-Di Negeri Mesir hidup ada seorang sufi bernama **Dzun Nun Al-Misri**. Dia adalah seorang tokoh sufi besar di abad ketiga Hijriyah. Nama lengkapnya, _Abu Al-Faidl Tsauban Dzun Nun bin Ibrahim Al-Mishri_ (wafat 245 H/859 M). Dia lahir di Ikhkim atau Akhmim, di tepi bagian timur Sungai Nil.
+Di Negeri Mesir hidup seorang sufi bernama **Dzun Nun Al-Misri**. Dia adalah seorang tokoh sufi besar di abad ketiga Hijriyah. Nama lengkapnya, _Abu Al-Faidl Tsauban Dzun Nun bin Ibrahim Al-Mishri_ (wafat 245 H/859 M). Dia lahir di Ikhkim atau Akhmim, di tepi bagian timur Sungai Nil.
 
 Dalam buku berudul _“Allah dan Alam Semesta: Perspektif Tasawuf Falsafi”_, Prof KH Said Aqil Siroj menjelaskan bahwa Dzun Nun dikenal sebagai seorang hakim (sufi-filsuf), dan ahli dalam teknik alchemy (al-kimiya’).
 
