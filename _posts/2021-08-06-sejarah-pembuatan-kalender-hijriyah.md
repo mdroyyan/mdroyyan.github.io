@@ -29,6 +29,7 @@ Pengucapan tujuh hari dalam sepekan _(الاسبوع)_ itu dalam aksen Jawa beru
 Adapun jumlah bulan dalam setahun ada dua belas, sesuai fiman Allah SWT:
 
 إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ ۚ فَلَا تَظْلِمُوا فِيهِنَّ أَنْفُسَكُمْ ۚ وَقَاتِلُوا الْمُشْرِكِينَ كَافَّةً كَمَا يُقَاتِلُونَكُمْ كَافَّةً ۚ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ
+{: .text-right}
 
 _“Sesungguhnya bilangan bulan pada sisi Allah ialah dua belas bulan, dalam ketetapan Allah di waktu Dia menciptakan langit dan bumi, di antaranya empat bulan haram. Itulah (ketetapan) agama yang lurus, maka janganlah kamu menganiaya diri kamu dalam bulan yang empat itu, dan perangilah kaum musyrikin itu semuanya sebagaimana mereka pun memerangi kamu semuanya; dan ketahuilah bahwasanya Allah beserta orang-orang yang bertakwa.”
 (At-Taubah 9:36)._
