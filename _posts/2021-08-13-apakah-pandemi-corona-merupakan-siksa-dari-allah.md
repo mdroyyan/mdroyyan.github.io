@@ -1,6 +1,6 @@
 ---
 title: "Apakah Pandemi Corona Merupakan Siksa Dari Allah?"
-excerpt: "Kesepakatan tentang diperlukannnya pembuatan **Kalender Islam**"
+excerpt: "Hikmah supaya kita dapat membedakan antara bencana yang merupakan **bala'** atau ujian dan bencana yang merupakan siksaan dari Allah Ta'ala"
 categories:
   - Keislaman
 tags:
