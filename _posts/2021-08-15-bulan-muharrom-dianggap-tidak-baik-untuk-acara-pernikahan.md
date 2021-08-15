@@ -31,7 +31,7 @@ Imam Syafi'i berkata:
 ان كان رفضا حب أل محمد
 {: .text-right}
 
-        فليشهد الثقلان اني رافضي
+&emsp;فليشهد الثقلان اني رافضي
 {: .text-right}
 
 _"Kalau mencintai keluarga Muhammad itu dianggap syiah rafidlah, maka supaya jin dan manusia bersaksi bahwa aku ini penganut syiah rafidlah"_.
