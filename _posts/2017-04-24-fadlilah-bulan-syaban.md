@@ -9,7 +9,7 @@ tags:
   - puasa
   - barakah
 ---
-_Oleh : H. Mohammad Danial Royan, Ketua PCNU Kendal_
+_Oleh : H. Mohammad Danial Royan, Rois Syuriah PCNU Kendal_
 
 ## I. PENGERTIAN SYA’BAN
 
